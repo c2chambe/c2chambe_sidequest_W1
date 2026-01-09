@@ -1,10 +1,6 @@
-## Project Title
+## Side Quest Week 1: Uploading your first sketch
 
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
-
-Side Quest Week 1: Uploading your first sketch
-
----
+## Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
 
 ## Group Members
 
@@ -29,13 +25,7 @@ Example:
 
 Describe how to use or play your project.
 
-- How does the user start?
-- What controls or keys do they use?
-- Any important visual or audio feedback to watch for?
-
-Example:
-
-> Press `S` to switch shapes and `R` to reset the canvas.
+- It is non-interactive, but feel free to take a look at it
 
 ---
 
@@ -49,10 +39,10 @@ Example:
 > - `assets/sound/beep.mp3` (created in GarageBand)
 > - `assets/image/background.png` (original artwork)
 
----
+## No assets were used in this file
 
 ## References
 
 Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format.
 
----[1] Karen Cochrane. 2025. GBDA302 Winter 2026 Starter Guide. Retrieved from https://docs.google.com/document/d/1Mzv_mLKSALTxhIlc3_KDgZ2Xg5iK5sXfH3y4Xfb7nxQ/edit?tab=t.0
+[1] Karen Cochrane. 2025. GBDA302 Winter 2026 Starter Guide. Retrieved from https://docs.google.com/document/d/1Mzv_mLKSALTxhIlc3_KDgZ2Xg5iK5sXfH3y4Xfb7nxQ/edit?tab=t.0
