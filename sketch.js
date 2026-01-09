@@ -4,7 +4,7 @@ const height = 400;
 function setup() {
   createCanvas(width, height);
   background("black");
-  textColor("red");
+  fill("red");
   textAlign(CENTER, CENTER);
 }
 
