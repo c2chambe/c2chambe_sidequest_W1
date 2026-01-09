@@ -6,10 +6,13 @@ function setup() {
   background("black");
   textColor("red");
   textAlign(CENTER, CENTER);
-  textSize(100);
+  textSize(50);
 }
 
 function draw() {
-  text("The Bigger They Are...", width / 2, height / 3);
-  text("...The Harder They Fall", width / 2, (2 * height) / 3);
+  text("The Taller They Are...", width / 2, height / 3);
+  text("...The Harder They'll Fall", width / 2, 2 * (height / 3));
+  textSize(100);
+  textStyle(BOLD);
+  text("JENGA", width / 2, height / 2);
 }
