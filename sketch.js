@@ -1,5 +1,8 @@
+const width = 400;
+const height = 400;
+
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(width, height);
   background("black");
   textColor("white");
   textAlign(CENTER, CENTER);
