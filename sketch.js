@@ -4,9 +4,9 @@ const height = 400;
 function setup() {
   createCanvas(width, height);
   background("black");
-  textColor("white");
+  textColor("red");
   textAlign(CENTER, CENTER);
-  textSize(32);
+  textSize(100);
 }
 
 function draw() {
